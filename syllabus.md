@@ -1,6 +1,6 @@
 ---
 layout: page
-title: INTD 2810 Spring 2025 Syllabus
+title: INTD 2811 Spring 2026 Syllabus
 subtitle:
 published: true
 ---
