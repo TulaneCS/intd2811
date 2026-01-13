@@ -5,7 +5,7 @@
 title: The Digital Revolution, From Ada to AI
 
 # Short description of your site
-description: INTD 2810 - The Digital Revolution, From Ada to AI - Tulane University - Spring 2025
+description: INTD 2811 - The Digital Revolution, From Ada to AI - Tulane University - Spring 2026
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -97,7 +97,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://tulanecs.github.io/intd2810/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://tulanecs.github.io/intd2811/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 

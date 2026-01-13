@@ -10,8 +10,8 @@ published: true
 
 ## Tulane Course Information
   - INTD 2811-01, 3 Credit Hour Course
-  - Spring 2026 Term, Tulane University
-  - NTC Attributes: Textual & Hist Perspective and Formal Reasoning
+    - Spring 2026 Term, Tulane University
+    - NTC Attributes: Textual & Hist Perspective and Formal Reasoning
 - **Lecture Times:** 11:00 - 12:15pm
 - **Room:** Paul Hall 100, PAUL ([Building 16](https://admission.tulane.edu/map))
 - **Online:** All meetings will be recorded on Zoom, see Tulane Canvas for details. *However, you must come in person for full course credit. Zoom is there for serious illness and other unavoidable circumstances only.*
@@ -52,9 +52,9 @@ published: true
 
 - **Computer Science Course Assistants and Help Hours**
   - **Note:** There are 3 undergraduate course assistants assigned to this course. They will hold regular general drop in help hours in Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)) Room 316 
-  - Connor Rodriguez crodriguez6@tulane.edu
+  - Connor Rodriguez <crodriguez6@tulane.edu>
   - Jamari Ross <jross19@tulane.edu>
-  - Michael Weild mweild@tulane.edu
+  - Michael Weild <mweild@tulane.edu>
 
 Computer Science CA Help Hours – All in Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)) Room 316
 
