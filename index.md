@@ -25,13 +25,13 @@ published: true
 ## Instructor Information
 - **Instructor:** Walter Isaacson, <isaacson@tulane.edu>
   - **Office:** F. Edward Herbert Hall ([Building 7](https://admission.tulane.edu/map)), Room 125C
-  - **Office Hours:** TBD.
+  - **Office Hours:** Thursdays 10:15 - 10:45, 3-4 PM
 
 - **Instructor:** Nicholas Mattei, <nsmattei@tulane.edu>
   - **Office:** Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)), Room 305B
   - **Office Hours:** TBD and (most) TR 1230-130 in lobby outside Paul 100
   - On Mondays you can come by my office or visit me at the Zoom Links below. Note that if you are in the waiting room on Zoom it means I am talking to someone else, please don’t email me.
-    - [Prof. Mattei Online Monday Link](TBD)
+    - [Prof. Mattei Online Monday Link](https://tulane.zoom.us/j/93364332224?pwd=GoceZNYryZFMLU8MluyjoeiUQj9p6r.1)
 
 
 ## Teaching Assistant Information
