@@ -38,7 +38,7 @@ published: true
 
 - **History Teaching Assistant**: Kris Plunkett, <kplunkett@tulane.edu>
   - **Office:** TBD
-  - **Office Hours:** TBD
+  - **Office Hours:** By Appointment Only – Email to arrange a meeting.
 
 - **History Department Graders:**
   - Janel Blessing <jblessing@tulane.edu>
