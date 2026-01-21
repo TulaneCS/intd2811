@@ -53,7 +53,6 @@ published: true
   - Julian Cohan <jcohan@tulane.edu>
   - Connor Rodriguez <crodriguez6@tulane.edu>
   - Jamari Ross <jross19@tulane.edu>
-  - Phu Thanh Tran <ttran33@tulane.edu>
   - Michael Weild <mweild@tulane.edu>
 
 Computer Science CA Help Hours – All in Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)) Room 316
