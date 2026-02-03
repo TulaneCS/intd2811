@@ -22,7 +22,8 @@ description: INTD 2811 - The Digital Revolution, From Ada to AI - Tulane Univers
 # List of links in the navigation bar
 navbar-links:
   Syllabus: "syllabus"
-  Schedule and Assignments: "schedule"
+  Schedule: "schedule"
+  Assignments: "assignments"
   Links & Resources: "resources"
 
 collections:
