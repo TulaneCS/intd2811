@@ -12,4 +12,4 @@ published: true
 
 For examples from past years **but note that the assignment is significantly changed** see see: https://aiinnovatorsarchive.tulane.edu/2024/ and: https://tulanehullabaloo.com/65986/uncategorized/imitation-game-can-ai-rival-student-intellect/
 
-<iframe style="width: 100%; height: 10000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vTCOO6N6aBBOJApBvdHywf6WQh3z3lcppST4As41vqnusR2wnib5LeDyMp6XDh6HhPOYc69qbrrAO9-/pub?embedded=true"></iframe>
+<iframe style="width: 100%; height: 10000px; border: none" src="https://docs.google.com/document/d/e/2PACX-1vQ4jCyU7oWEDP1AEZaRbooyMIPZNHi_Qsp2N2sthK2AVLDjcvv8RisxkGGrlGMGGroAF3rH0i16m9Wq/pub?embedded=true"></iframe>
