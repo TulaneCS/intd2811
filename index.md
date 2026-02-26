@@ -45,8 +45,8 @@ published: true
   - **Office Hours:** 5 - 7 PM Monday in Stanley Thomas Hall 316
 
 - **History Department Graders:**
-  - Janel Blessing <jblessing@tulane.edu>
   - Grace Vanden Heuvel <gvandenheuvel@tulane.edu>
+  - Pureum Lee <plee11@tulane.edu>
 
 - **Computer Science Course Assistants and Help Hours**
   - **Note:** There are 3 undergraduate course assistants assigned to this course. They will hold regular general drop in help hours in Stanley Thomas Hall ([Building 10](https://admission.tulane.edu/map)) Room 316 
